@@ -1,1 +1,1 @@
-[Pretty self explanatory](derrig.github.io)
+[Pretty self explanatory](http://derrig.me)
