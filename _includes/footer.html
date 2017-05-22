@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="/font-awesome-4.7.0/css/font-awesome.min.css">
+</head>
+
 <footer class="site-footer">
 
   <div class="site-copy">&copy; {{ site.time | date: '%Y' }}<span class="site-author">{{ site.author }}</span></div>
@@ -6,16 +10,14 @@
     <div class="site-contact">
       <ul>
         {% if site.email %}
-        <li><a href="mailto:{{ site.email }}">Contact</a></li>
+        <li><a href="mailto:{{ site.email }}"><span class="fa fa-2x fa-envelope-o"></span></a></li>
         {% endif %}
 
         {% if site.github_username %}
-        <li><a target="_blank" rel="external" href="https://github.com/{{ site.github_username }}">Github</a></li>
+        <li><a target="_blank" rel="external" href="https://github.com/{{ site.github_username }}"><span class="fa fa-2x fa-github"></span></a></li>
         {% endif %}
 
-        {% if site.twitter_username %}
-        <li><a target="_blank" rel="external" href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
-        {% endif %}
+        <li><a target="_blank" rel="external" href="https://www.instagram.com/blown_highlights/"><span class="fa fa-2x fa-instagram"></span></a></li>
       </ul>
     </div>
 
