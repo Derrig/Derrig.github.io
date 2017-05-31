@@ -29,13 +29,12 @@ paginate_path: "/articles/page:num/"  # link scheme for articles, should be letf
 navigation:
   - title: Articles
     url: /articles/
-    desc: Stuffs I write about
+    desc: Stuff I've written
   - title: Projects
     url: /projects/
     desc: Stuff I've created
   - title: Work
     url: /work/
-    desc: Turn back, there's nothing here.
   - title: About
     url: /about/
 
