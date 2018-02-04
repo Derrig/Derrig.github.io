@@ -21,7 +21,7 @@ I have a passion for Android and open-source development.
 
 Languages I enjoy working with include **Java, OCaml, Javascript, and Python**. I am currently learning Kotlin and Vala.
 
-This fall, I will begin my junior year studying Computer Science at Cornell University. I plan to graduate in the Spring of 2019.
+This spring, I am completing my junior year studying Computer Science at Cornell University. I plan to graduate in the Spring of 2019.
 
 ---
 
