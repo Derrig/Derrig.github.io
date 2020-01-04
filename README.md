@@ -1,2 +1,2 @@
-# Derrig.me
+# ericwang.dev
 My personal website.
