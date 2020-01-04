@@ -62,3 +62,5 @@ exclude:
   - vendor
 plugins:
   - jekyll-paginate
+
+theme: jekyll-theme-cayman
