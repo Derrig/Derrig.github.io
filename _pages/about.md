@@ -8,7 +8,7 @@ permalink: /about/
 
 <div class="pretty-links">
 
-<div class="lead lead-about"> I am an aspiring *software developer*.
+<div class="lead lead-about"> I am a *software engineer* based in Palo Alto, California.
 </div>
 
 {::nomarkdown}
@@ -19,9 +19,12 @@ permalink: /about/
 
 I have a passion for libre software and writing clean, performant code.
 
-Languages I enjoy working with include **Java, OCaml, Javascript, and Python**. I am currently learning Kotlin and Vala.
+Languages I enjoy working with include **C++, Java, OCaml, and Python**.
 
-This fall, I am beginning my senior year studying Computer Science at Cornell University. I plan to graduate in the spring of 2019.
+I currently work at Facebook, where I develop Tally, a real-time highly distributed flash-backed counter service handling 
+1 billion queries per second, providing statistics about streams of events. 
+It is used by hundreds of Facebook, Instagram, WhatsApp, and Oculus teams for a wide range of purposes 
+including abuse mitigation, virality tracking and story view counts.
 
 ---
 
@@ -29,7 +32,13 @@ This fall, I am beginning my senior year studying Computer Science at Cornell Un
 [Link]({{ site.baseurl }}/assets/eric_wang_resume.pdf) (pdf)
 
 ## My hobbies and interests
-I love photography! See my [Instagram](http://www.instagram.com/blown_highlights) for some of the favorite pictures I've taken. 
+I love photography! See my [Instagram](http://www.instagram.com/blown_highlights) for some of the pictures I've taken. 
 
-I also enjoy playing and watching basketball.
+Like about half of the Bay Area, I love to snowboard. You can catch me up on the slopes at Heavenly/Northstar/Kirkwood 
+at Lake Tahoe almost every weekend in the winter :)
+
+A burgeoning interest of mine is retro computing. Living in Silicon Valley, where the personal computer revolution
+began, has inspired me a lot (if you're ever in the area, you MUST check out the Computer History Museum). 
+I currently own a Commodore 64, and am working on learning 6502 assembly :)
+
 </div>
